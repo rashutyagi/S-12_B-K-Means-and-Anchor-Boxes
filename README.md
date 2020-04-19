@@ -3,6 +3,16 @@ Applied K means to find the best Anchor Boxes For YOLO.
 
 ## Got best K as 3
 
+# Corresponding visualizations
+
+![](https://github.com/rashutyagi/S-12_B-K-Means-and-Anchor-Boxes/blob/master/Mean%20Max%20IOU%20vs%20Centroids.PNG)
+
+![](https://github.com/rashutyagi/S-12_B-K-Means-and-Anchor-Boxes/blob/master/WCSS%20vs%20Centroids.PNG)
+
+![](https://github.com/rashutyagi/S-12_B-K-Means-and-Anchor-Boxes/blob/master/Clusters%20k3.PNG)
+
+![](https://github.com/rashutyagi/S-12_B-K-Means-and-Anchor-Boxes/blob/master/Clusters%20k%205.PNG)
+
 
 # Json File Explanation 
  
