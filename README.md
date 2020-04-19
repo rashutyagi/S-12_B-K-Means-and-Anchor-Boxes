@@ -28,7 +28,7 @@ and here are the definitions of all the parts mentioned in the image
 
 # Part A --> It represents the name of the file with which we saved our image in our system.
 
-# Part B --> It represents what type of template I used to annotate my image for example in all my images  Iused a rectangular box which was adjustable hence it is showing "rect" as the value 
+# Part B --> It represents what type of template I used to annotate my image for example in all my images  I used a rectangular box which was adjustable hence it is showing "rect" as the value 
 
 # Part C --> It represents the  x coordinate of the starting point from where  I started the annotation.
 
