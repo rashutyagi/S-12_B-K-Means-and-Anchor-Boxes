@@ -1,4 +1,8 @@
 # S-12_B-K-Means-and-Anchor-Boxes
+
+Group members - Rashu,Uday,Divya,Srilakshmi.
+
+
 Applied K means to find the best Anchor Boxes For YOLO.
 
 ## Got best K as 3
